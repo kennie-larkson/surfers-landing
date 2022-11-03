@@ -15,7 +15,7 @@ export default function Banner(): JSX.Element {
 
         <div className="absolute top-2/4 w-full text-center ">
           <button className="text-purple-500 bg-white px-10 py-4 rounded-full shadow-md font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150 ">
-            <a className="text-red-500" href="" target="_blank">
+            <a className="text-red-500" href="">
               Let's go a surfing!
             </a>
           </button>
